@@ -1,0 +1,195 @@
+ol { 
+    margin: 0; 
+    padding: 0;
+}
+
+.c0 {
+    color:inherit;
+    text-decoration:inherit;
+}
+
+.c1 { 
+    line-height: 1.0; 
+    height: 11pt; 
+    direction: ltr; 
+    padding-bottom: 0pt;
+}
+
+.c2 {
+    direction:ltr;
+}
+
+.c3 {
+    line-height:1.0;
+    padding-bottom:0pt;
+}
+
+.c4 {
+    color:#1155cc;
+    text-decoration:underline;
+}
+
+.c5 {
+    text-decoration:underline;
+    font-weight:bold;
+}
+
+.c6 {
+    padding-left:0pt;
+    margin-left:36pt;
+}
+
+.c7 {
+    font-size:18pt;
+}
+
+.c8 {
+    color:#0000ff;
+    text-decoration:underline;
+}
+
+.c9 {
+    list-style-type:disc;
+    margin:0;
+    padding:0;
+}
+
+.c10 {
+    height:11pt;
+}
+
+.c11 {
+    font-style:italic;
+}
+
+.c12 {
+    font-weight:bold;
+}
+
+.c13 {
+    text-decoration:underline;
+}
+
+.c14 {
+    font-size:12pt;
+}
+
+.c15 {
+    vertical-align:super;
+}
+
+.c16 {
+    color:#0000ff;
+}
+
+.c17 { 
+    max-width: 468pt; 
+    background-color: #ffffff; 
+    padding: 72pt 72pt 72pt 72pt;
+}
+
+.c18 {
+    font-size:72pt;
+}
+
+.title {
+    padding-top:12pt;
+    line-height:1.15;
+    text-align:center;
+    color:#000000;
+    font-size:16pt;
+    font-family:"Arial";
+    font-weight:bold;
+    padding-bottom:3pt;
+}
+
+.subtitle {
+    padding-top:0pt;
+    line-height:1.15;
+    text-align:center;
+    color:#000000;
+    font-size:11pt;
+    font-family:"Arial";
+    padding-bottom:3pt;
+}
+
+li {
+    color:#000000;
+    font-size:11pt;
+    font-family:"Calibri";
+}
+
+p {
+    color:#000000;
+    font-size:11pt;
+    margin:0;
+    font-family:"Calibri";
+}
+
+h1 {
+    padding-top:12pt;
+    line-height:1.15;
+    text-align:left;
+    color:#000000;
+    font-size:16pt;
+    font-family:"Cambria";
+    font-weight:bold;
+    padding-bottom:3pt;
+}
+
+h2 {
+    padding-top:12pt;
+    line-height:1.15;
+    text-align:left;
+    color:#000000;
+    font-style:italic;
+    font-size:14pt;
+    font-family:"Arial";
+    font-weight:bold;
+    padding-bottom:3pt;
+}
+
+h3 {
+    padding-top:12pt;
+    line-height:1.15;
+    text-align:left;
+    color:#000000;
+    font-size:13pt;
+    font-family:"Arial";
+    font-weight:bold;
+    padding-bottom:3pt;
+}
+
+h4 {
+    padding-top:12pt;
+    line-height:1.15;
+    text-align:left;
+    color:#000000;
+    font-size:14pt;
+    font-family:"Calibri";
+    font-weight:bold;
+    padding-bottom:3pt;
+}
+
+h5 {
+    padding-top:12pt;
+    line-height:1.15;
+    text-align:left;
+    color:#000000;
+    font-style:italic;
+    font-size:13pt;
+    font-family:"Calibri";
+    font-weight:bold;
+    padding-bottom:3pt;
+}
+
+h6 {
+    padding-top:12pt;
+    line-height:1.15;
+    text-align:left;
+    color:#000000;
+    font-size:11pt;
+    font-family:"Calibri";
+    font-weight:bold;
+    padding-bottom:3pt;
+}
